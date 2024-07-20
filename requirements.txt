@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+tenacity
+packaging
+jsonpatch
+python-dotenv
